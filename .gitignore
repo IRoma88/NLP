@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints de Jupyter (por si lo adaptas)
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos
+*.csv
+*.tsv

@@ -1,0 +1,4 @@
+spacy
+scikit-learn
+pandas
+#Recuerda ejecutar: python -m spacy download en_core_web_sm
